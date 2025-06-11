@@ -11,3 +11,32 @@ Effective inventory and sales management are critical for optimizing profitabili
 *Assess inventory turnover to reduce holding costs and improve efficiency.
 *Investigate the profitability variance between high-performing and low-performing vendors."
 
+![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/dash1.png)
+
+![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/dash2.png)
+
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda1.png )
+
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda2.png )
+
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda3.png)
+
+![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda4.png)
+
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda6.png )
+
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda5.png )
+
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda7.png )
+
+![image alt](  https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda8.png)
+
+![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda9.png  )
+
+![image alt]([ ](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda10.png) )
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda11.png )
+![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda12.png )
+![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda13.png  )
+
+
+
