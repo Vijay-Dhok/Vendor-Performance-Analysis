@@ -17,6 +17,17 @@ Effective inventory and sales management are critical for optimizing profitabili
 
 ![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/dash2.png)
 
+
+
+# IMP  Terms -
+# Freight Cost:
+
+Freight cost refers to the expense incurred for the transportation of goods from one location to another. This typically includes charges for shipping, handling, and any related logistics fees. It's a significant component of the total cost of goods and impacts a company's gross profit and overall profitability.
+
+# Stock Turnover (or Inventory Turnover):
+
+Stock turnover is a financial ratio that measures how many times inventory has been sold or used in a given period. It's calculated by dividing the cost of goods sold (COGS) by the average inventory value for the same period. A higher turnover generally indicates efficient inventory management and strong sales, while a lower turnover might suggest overstocking or weak demand.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image alt]( https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/eda1.png )
 
@@ -103,7 +114,9 @@ This final code block saves the prepared vendor_sales_summary DataFrame to both 
 ![image alt](https://github.com/Vijay-Dhok/Vendor-Performance-Analysis/blob/dcfccc18992e302cf926638bec284712228ecef3/dash1.png)
 
 
-
+To enhance readability of insights we removed inconsistent data points where 
+Gross Profit <=0 ;
+Profit margin <=0 ;
 
 Dashboard 1 
 # 1. KPI Cards (Top Row):
@@ -151,4 +164,9 @@ Explanation: This donut chart breaks down the percentage of unsold inventory val
 # 4. Top 5 Low Performing Vendors by avg Stock Turnover (Bottom-Right Bar Chart):
 
 Explanation: This horizontal bar chart displays the top five vendors with the lowest average stock turnover rates. A low stock turnover indicates that inventory from these vendors is selling slowly, potentially leading to higher holding costs and obsolescence. This chart helps identify problematic vendors from an inventory efficiency perspective.
-
+# Final Outcomes-
+* Diversify vendor partnerships to reduce dependency on a few suppliers and mitigate supply chain risks.
+* Leverage bulk purchasing advantages to maintain competitive pricing while optimizing inventory management.
+* Optimize slow-moving inventory by adjusting purchase quantities, launching clearance sales, or revising storage strategies.
+* Enhance marketing and distribution strategies for low-performing vendors to drive higher sales volumes without compromising profit margins.
+* By implementing these recommendations, the company can achieve sustainable profitability, mitigate risks, and enhance overall operational efficiency.
